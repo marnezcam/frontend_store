@@ -191,7 +191,6 @@ header {
   width: 100%;
 }
 
-
 @media (min-width: 768px) {
   .contenedor__imagen {
     grid-column: 2 / 3;
